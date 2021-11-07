@@ -1,4 +1,4 @@
-# Velkommen til A/B Ryttergabskrogen
+## Velkommen til A/B Ryttergabskrogen
 
-## Ny hjemmeside
+### Ny hjemmeside
 Er under udarbejdelse
